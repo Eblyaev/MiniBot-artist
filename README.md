@@ -81,3 +81,9 @@ void loop(){
 ```
 ## Процесс работы
 ![Видео]([Работа.mp4](https://github.com/Eblyaev/MiniBot-artist/blob/main/Работа.mp4)https://github.com/Eblyaev/MiniBot-artist/blob/main/Работа.mp4)
+
+## Недостатки
+* Скользит на бумаге
+* Детали были сделаны слегка некачественно
+* Натянутая гусеница была слишком жесткой
+
