@@ -80,3 +80,4 @@ void loop(){
 
 ```
 ## Процесс работы
+![Видео]([Работа.mp4](https://github.com/Eblyaev/MiniBot-artist/blob/main/Работа.mp4)https://github.com/Eblyaev/MiniBot-artist/blob/main/Работа.mp4)
